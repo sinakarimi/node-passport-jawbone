@@ -1,5 +1,5 @@
 {
-  "name": "passport-jawbone",
+  "name": "node-passport-jawbone",
   "version": "0.1.1",
   "description": "Jawbone UP authentication strategy for Passport.",
   "keywords": [

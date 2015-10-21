@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/sinakarimi/passport-jawbone.git"
+    "url": "http://github.com/sinakarimi/node-passport-jawbone.git"
   },
   "bugs": {
-    "url": "http://github.com/sinakarimi/passport-jawbone/issues"
+    "url": "http://github.com/sinakarimi/node-passport-jawbone/issues"
   },
   "author": {
     "name": "Luke Opperman",
@@ -39,5 +39,5 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "homepage": "https://github.com/sinakarimi/passport-jawbone",
+  "homepage": "https://github.com/sinakarimi/node-passport-jawbone",
 }

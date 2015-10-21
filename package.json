@@ -1,6 +1,6 @@
 {
   "name": "passport-jawbone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Jawbone UP authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/CogstateDev/passport-jawbone.git"
+    "url": "http://github.com/sinakarimi/passport-jawbone.git"
   },
   "bugs": {
-    "url": "http://github.com/CogstateDev/passport-jawbone/issues"
+    "url": "http://github.com/sinakarimi/passport-jawbone/issues"
   },
   "author": {
     "name": "Luke Opperman",
@@ -39,25 +39,5 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "homepage": "https://github.com/CogstateDev/passport-jawbone",
-  "_id": "passport-jawbone@0.1.0",
-  "_shasum": "8dae500b00604f68a3030c6a4b9ffdff7c54662d",
-  "_from": "passport-jawbone@0.1.0",
-  "_npmVersion": "1.4.9",
-  "_npmUser": {
-    "name": "jbcima",
-    "email": "me@jeremycimafonte.com"
-  },
-  "maintainers": [
-    {
-      "name": "jbcima",
-      "email": "me@jeremycimafonte.com"
-    }
-  ],
-  "dist": {
-    "shasum": "8dae500b00604f68a3030c6a4b9ffdff7c54662d",
-    "tarball": "http://registry.npmjs.org/passport-jawbone/-/passport-jawbone-0.1.0.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/passport-jawbone/-/passport-jawbone-0.1.0.tgz"
+  "homepage": "https://github.com/sinakarimi/passport-jawbone",
 }
